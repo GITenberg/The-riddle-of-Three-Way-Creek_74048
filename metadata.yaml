@@ -1,0 +1,35 @@
+_repo: The-riddle-of-Three-Way-Creek_74048
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Cullum, Ridgwell
+    alias: Burghard, Sidney Groves
+    birthdate: 1867
+    deathdate: 1943
+    gutenberg_agent_id: '5545'
+    url: http://www.gutenberg.org/2009/agents/5545
+    wikipedia: https://en.wikipedia.org/wiki/Ridgwell_Cullum
+description: ''
+gutenberg_issued: '2024-07-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74048'
+language: en
+pgterms:marc904: https://archive.org/details/riddleofthreeway0000cull/mode/2up
+pgterms:marc905: 20230709122734cullum
+pgterms:marc906: '1925'
+pgterms:marc907: Ca
+production_note: D A Alexander, David E. Brown, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aToronto :$bMcClelland and Stewart, $c1925.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Canada, Northern -- Fiction'
+- !lcsh 'Action and adventure fiction'
+- !lcc 'PR'
+- GITenberg
+title: The riddle of Three-Way Creek
+url: http://www.gutenberg.org/ebooks/74048
